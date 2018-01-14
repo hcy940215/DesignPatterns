@@ -1,1 +1,1 @@
-include ':builderpattern', ':singletonpattern', ':prototypepattern', ':strategypattern'
+include ':builderpattern', ':singletonpattern', ':prototypepattern', ':strategypattern', ':responsibilitypattern'
