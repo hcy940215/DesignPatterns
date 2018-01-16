@@ -4,3 +4,4 @@
 - [Builder模式解析](http://www.jianshu.com/p/ee79d1fb3c11)
 - [策略模式解析](https://www.jianshu.com/p/08970801f350)
 - [责任链模式解析](https://www.jianshu.com/p/029a7efce112)
+- [观察者模式模式解析](https://www.jianshu.com/p/6e8fc5232448)
